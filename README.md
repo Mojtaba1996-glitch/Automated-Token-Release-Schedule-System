@@ -1,1 +1,2 @@
-# Automated-Token-Release-Schedule-System
+## Automated-Token-Release-Schedule-System
+This project is an innovative solution for automating the token release schedule for early-stage cryptocurrency projects. Designed to streamline the process, this system ensures accurate daily token distribution in compliance with release schedules typically outlined in white papers. By leveraging advanced data science methodologies, this project empowers cryptocurrency projects to maintain transparency and efficiency.
