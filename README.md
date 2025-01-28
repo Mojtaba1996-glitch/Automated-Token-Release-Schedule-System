@@ -45,3 +45,24 @@ We hope this project inspires others to innovate in the cryptocurrency and block
 
 - **File Format**: [📘TOKEN.ipynb](TOKEN.ipynb)
 
+## Indicators
+**Indicator 1**
+![](figures/indcator1)
+**RF**
+![RF model](rf-results.png)
+
+**LSTM**
+![LSTM model](lstm_results.png)
+
+## Results (Trend forecasting)
+**ARIMA**
+
+![ARIMA model](ARIMA.PNG)
+
+**RF**
+
+![RF model](RF.PNG)
+
+**LSTM**
+
+![LSTM model](LSTM.PNG) 
