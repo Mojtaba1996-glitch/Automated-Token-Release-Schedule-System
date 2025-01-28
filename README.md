@@ -45,6 +45,6 @@ We hope this project inspires others to innovate in the cryptocurrency and block
 
 - **File Format**: [📘TOKEN.ipynb](TOKEN.ipynb)
 
-- **Download** [Download Token Schedule Example](figures/token_schedule.xlsx)
+- **Download** [Download Token Schedule Example](./token_schedule.xlsx)
 
  
