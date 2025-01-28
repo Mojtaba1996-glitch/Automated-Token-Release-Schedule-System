@@ -47,5 +47,5 @@ We hope this project inspires others to innovate in the cryptocurrency and block
 
 ## Indicators
 **Indicator 1**
-![INDICATOR](figures/indcator1)
+![INDICATOR](figures/SUPPLY.PNG)
  
