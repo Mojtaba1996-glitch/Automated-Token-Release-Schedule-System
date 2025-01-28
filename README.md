@@ -46,6 +46,8 @@ We hope this project inspires others to innovate in the cryptocurrency and block
 - **File Format**: [📘TOKEN.ipynb](TOKEN.ipynb)
 
 ## Indicators
-**Indicator 1**
+
 ![INDICATOR](figures/SUPPLY.PNG)
+
+[](figures/cumulative.PNG)
  
