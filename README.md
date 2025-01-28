@@ -49,5 +49,5 @@ We hope this project inspires others to innovate in the cryptocurrency and block
 
 ![INDICATOR](figures/SUPPLY.PNG)
 
-[](figures/cumulative.PNG)
+![INDICATOR](figures/cumulative.PNG)
  
