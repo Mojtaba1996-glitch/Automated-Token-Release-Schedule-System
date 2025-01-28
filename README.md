@@ -22,3 +22,23 @@ The system uses a set of indicators commonly mentioned in cryptocurrency white p
 📤 Proportions Allocated: Considers allocations to stakeholders such as team members, investors, and the community.
 
 Using Python, we built a flexible framework that parses input parameters and computes daily release amounts with accuracy.
+
+🧪 Example Workflow
+
+Define the tokenomics parameters in the provided input fields.
+
+Use the implemented indicators to calculate daily release schedules.
+
+Export the schedule as a CSV or other desired format.
+
+👨‍💻 About the Author
+
+This project was developed by Mojtaba, a data scientist at Virtual Finance Company. With a strong background in data analysis and finance, Mojtaba created this system to bring transparency and automation to the cryptocurrency space.
+
+📜 License
+
+This project is licensed under the MIT License, allowing others to use, modify, and distribute the system with appropriate credit.
+
+🌟 Get Involved
+
+We hope this project inspires others to innovate in the cryptocurrency and blockchain space. Contributions and feedback are welcome!
