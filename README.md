@@ -42,3 +42,6 @@ This project is licensed under the MIT License, allowing others to use, modify, 
 🌟 Get Involved
 
 We hope this project inspires others to innovate in the cryptocurrency and blockchain space. Contributions and feedback are welcome!
+
+- **File Format**: [📘TOKEN.ipynb](TOKEN.ipynb)
+
